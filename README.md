@@ -1,6 +1,3 @@
-# Human-Activity-Recognition-kNN
-This paper presents an offline method for classifying locomotion type human activities.
-
 # Abstract
 This paper presents an offline method for classifying locomotion type human activities into 6 separate groups: underground subway, train, walking, running, climbing stairs and the additional position of sitting down.
 The data is gathered with the accelerometers that are embedded into current smartphones, having the device placed into the subject's pocket.
