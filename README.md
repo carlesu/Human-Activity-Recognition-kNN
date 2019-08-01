@@ -5,4 +5,4 @@ The data is gathered with the accelerometers that are embedded into current smar
 Data is treated to obtain meaningful features in order to impact the discrimination ability of a k-nearest neighbours clustering algorithm which is applied to classify the motion.
 At the end of the report, results and conclusions are presented.
 
-[a relative link](Report Machine Learning.pdf)
+[a relative link](Report_Machine_Learning.pdf)
